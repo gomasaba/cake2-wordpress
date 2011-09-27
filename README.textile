@@ -1,0 +1,25 @@
+h1. Plugin for CakePHP2 - Wordpress
+
+PHP 5.2+, CakePHP 2.0RC
+
+This plugin Wordpress Model Class
+
+Copyright 2011, milds.net (http://milds.net)
+
+h2. Plugin Installation
+
+<pre>
+git submodule add -f https://github.com/milds/cake2-wordpress.git plugins/WpBlog
+</pre>
+
+
+<pre><code>
+
+</code></pre>
+
+
+
+h2. LICENSE
+
+http://www.gnu.org/licenses/lgpl.html GNU Lesser General Public License
+
